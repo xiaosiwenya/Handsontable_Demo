@@ -4,7 +4,7 @@
       <el-tab-pane label="Tab 1" name="1">
         <div>
           <h1>Handsontable Demo - Tab 1</h1>
-          <div style="height: 400px; overflow-x: auto;">
+          <div style="height: 100%;width: 100%; overflow-x: auto;">
             <div id="hot"></div>
           </div>
         </div>
